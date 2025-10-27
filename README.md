@@ -44,10 +44,28 @@ By leveraging only visual data, this project demonstrates how computer vision ca
 
 - 🐍 Python 3.8+
 
-- 👁️ OpenCV 4.x — image processing and line detection
+- 👁️ OpenCV 4.8.1 — image processing and line detection
 
 - 🔢 NumPy — array and geometry calculations
 
 - ⚙️ Custom control logic for motion and steering decisions
 
 - 💻 Jupyter Notebook for analysis and visualization
+
+## 📊 Results and Insights
+
+- The robot accurately detects and follows a predefined line using only camera input.
+
+- Color thresholding and contour analysis effectively extract the path in real time.
+
+- Performance remains stable across moderate lighting changes and curved paths.
+
+- Demonstrates that pure computer vision can be used for basic autonomous navigation without additional sensors.
+
+## 👨‍💻 Authors
+
+- 🌐 https://github.com/morta123456
+- 🌐 https://github.com/Soralsei
+- 🌐 https://github.com/GwenB27
+- 🌐 https://github.com/Kalitrof
+- 🌐 https://github.com/lucmondou
