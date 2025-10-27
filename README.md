@@ -40,3 +40,14 @@ By leveraging only visual data, this project demonstrates how computer vision ca
 | **test_main.py** | Script for running unit tests |
 | **Test.ipynb** | Notebook for vision tuning, debugging, and analysis |
 
+## ⚙️ Tech Stack
+
+- 🐍 Python 3.8+
+
+- 👁️ OpenCV 4.x — image processing and line detection
+
+- 🔢 NumPy — array and geometry calculations
+
+- ⚙️ Custom control logic for motion and steering decisions
+
+- 💻 Jupyter Notebook for analysis and visualization
